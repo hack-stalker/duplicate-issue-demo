@@ -163,8 +163,8 @@ console.log(
     " "
   )} |`
 );
-// workaround for https://github.com/Anansi-Solutions/left-pad/pull/1
-
+//https://github.com/hack-stalker/duplicate-issue-demo/pull/1
+//https://github.com/hack-stalker/duplicate-issue-demo/issues/1
 console.log(
   `| ${"-".repeat(firstColumnLength)} | ${"-".repeat(secondColumnLength)} |`
 );
